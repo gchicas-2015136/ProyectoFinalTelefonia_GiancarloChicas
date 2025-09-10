@@ -7,6 +7,6 @@
  *
  * @author Gianc
  */
-public class ClasePrueba {
+public class CDRProductor {
     
 }
